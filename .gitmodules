@@ -1,0 +1,12 @@
+[submodule "HeyGem.ai"]
+	path = HeyGem.ai
+	url = https://github.com/suifeng9203/HeyGem.ai
+[submodule "OmniVoice"]
+	path = OmniVoice
+	url = https://github.com/k2-fsa/OmniVoice
+[submodule "Handy"]
+	path = Handy
+	url = https://github.com/cjpais/Handy
+[submodule "ComfyUI"]
+	path = ComfyUI
+	url = https://github.com/Comfy-Org/ComfyUI
